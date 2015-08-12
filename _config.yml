@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: La carriera di Programmatore è una frode
+description: Quello che dovreste sapere prima di intraprendere una delle peggiori carriere sul mercato delle professioni specializzate
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://arashleto.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: arashleto
+   twitter: arashleto
+   facebook: arashleto
+   email: arashleto@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
