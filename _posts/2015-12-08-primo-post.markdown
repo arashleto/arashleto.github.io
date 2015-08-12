@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Premessa"
 date:   2015-12-08
 ---
 
-<p class="intro"><span class="dropcap">L'</span>origine di questo blog è senza dubbio la frustrazione. La scrivo immediatamente perchè è chiaro che non tutti i professionisti del campo condivideranno i miei punti di vista ne si riconoscereanno nelle mie esperienze. Ritengo pertanto di dover onestamente stabilire che ciò che andrò a scrivere ha consciamente una bias. Questo disclaimer in qualche modo ha lo scopo di spiegare perchè sebbene cercherò di scrivere in maniera civile, non cercherò di levigare troppo le mie emozioni:</p>
+<p class="intro"><span class="dropcap">L'</span>origine di questo blog è senza dubbio la frustrazione. </p>
+
+<p>La scrivo immediatamente perchè è chiaro che non tutti i professionisti del campo condivideranno i miei punti di vista ne si riconoscereanno nelle mie esperienze. Ritengo pertanto di dover onestamente stabilire che ciò che andrò a scrivere ha consciamente una bias. Questo disclaimer in qualche modo ha lo scopo di spiegare perchè sebbene cercherò di scrivere in maniera civile, non cercherò di levigare troppo le mie emozioni:</p>
 
 <p>Le emozioni sono una parte fondamentale delle critiche che andrò a fare.</p>
 
