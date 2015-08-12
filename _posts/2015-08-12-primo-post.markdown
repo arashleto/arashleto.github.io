@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Premessa"
-date:   2015-12-08
+date:   2015-08-12
 ---
 
 <p class="intro"><span class="dropcap">L'</span>origine di questo blog è senza dubbio la frustrazione. </p>
