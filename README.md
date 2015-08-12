@@ -1,36 +1,49 @@
-#My Jekyll Theme for GitHub Pages. 
+![preview Long Haul](/preview.jpg)
 
+Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
 
-Write in Jekyll  [Jekyll Release for the Holidays! v2.5.3 Out ](https://github.com/jekyll/jekyll).
+If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
 
+####[View Demo](http://brianmaierjr.com/long-haul)
 
+## Features
 
-CleanMagicMedium V.0.0.2
-Download it <code> git clone https://github.com/SpaceG/CleanMagicMedium-Jekyll-V.0.2.0.git</code>
+- Minimal, Type Focused Design
+- Built with SASS + COMPASS
+- Layout with SUSY Grid
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
 
-Download it, open it with Terminal and run <code> jekyll serve </code> 
-Have Fun! Please Star it and Fork it! 
-Cheers with Club Mate!
+## Setup
 
+1. [Install Jekyll](http://jekyllrb.com)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3. Clone it
+4. Install susy `gem install susy` 
+5. Install normalize `gem install normalize-scss`
+6. Run Jekyll `jekyll serve -w`
+7. Run `compass watch`
+8. Customize!
 
-Twitter
-[@LucasGatsas](https://twitter.com/LucasGatsas) 
+## Site Settings
 
+The main settings can be found inside the `_config.yml` file:
 
-Download: 
-[CleanMagicMedium V.0.0.2](https://github.com/SpaceG/CleanMagicMedium-Jekyll-V.0.2.0) 
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
+## License
 
-
-![alt tag](https://spaceg.github.io/img/intro-theme-1.png)
-
-
-
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Copyright © 2013 - 2015. Lucas Gatsas - Softwares
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
