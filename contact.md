@@ -7,8 +7,11 @@ title: Contact
   <h1 class="pageTitle">Contact</h1>
   <div class="contactContent">
     <p class="intro">Potete provare a contattarmi ma sarà abbastanza inutile il più delle volte.</p>
-    <p>arash.leto@gmail.com</p>
     <p></p>
+    <p></p>
+  </div>
+  <div>
+    <p>arash.leto@gmail.com</p>
   </div>
   <!--
   <form action="http://formspree.io/your@mail.com" method="POST">
